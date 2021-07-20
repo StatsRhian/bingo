@@ -1,0 +1,28 @@
+# Tropes in talks given by Colin Gillespie
+c(
+  "Mentions Scotland",
+  "Posts a screenshot of a private slack message",
+  "Posts a screenshot of *this* bingo card",
+  "Efficient R book",
+  "Buys a domain just for a joke",
+  "Bad pun",
+  "Uses a Google search as a research method",
+  "Graph he spent ages making when he should have been writing content",
+  "Joke hidden in the slide footnote",
+  "Who would be silly enough to do X? Photo of Colin",
+  "Cute Jumping Rivers cartoon",
+  "YouTube video clip",
+  "Jumping Rivers - The most mysteriously named data science company",
+  "Slide with just a question",
+  "We're cheap",
+  "Tries to describe where Newcastle is",
+  "Totally unrelated image",
+  "Quotes a tweet",
+  "Mentions Fortran 77",
+  "Mentions biscuits",
+  "Makes a joke about the conference host / country",
+  "Cheesy title",
+  "Dad joke",
+  "Tricks you into doing something silly",
+  "Slags off python"
+)
